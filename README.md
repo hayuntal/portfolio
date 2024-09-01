@@ -7,7 +7,7 @@ B.Sc., Data Science & Engineering | Ben Gurion University [_2020-2024_]
 
 ## Projects
 
-### Oref Alert Explorer
+### 1) Oref Alert Explorer
 
 
 An interactive dashboard platform that showcases data analytics on alerts during the 2023 Israel-Hamas war.
@@ -18,7 +18,7 @@ With this dashbord, we can quickly find areas with increased alert levels, makin
 [View the Oref Alert Explorer Dashboard](https://public.tableau.com/views/OrefAlertsExplorer/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-### A/B Testing Project - Cookie Cats
+### 2) A/B Testing Project - Cookie Cats
 
 ![image](https://raw.githubusercontent.com/hayuntal/portfolio/main/assets/img/cookiecats.jfif)
 

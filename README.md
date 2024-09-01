@@ -32,5 +32,5 @@ This integrated approach allows for a detailed analysis of game rounds and user 
 
 Repo Link: https://github.com/hayuntal/CookieCats_AB_Testing 
 
-![image](https://github.com/hayuntal/portfolio/blob/main/assets/img/cookie_cats.png?raw=true)
+![image](https://raw.githubusercontent.com/hayuntal/portfolio/main/assets/img/cookiecats.jfif)
 

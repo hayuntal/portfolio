@@ -4,15 +4,11 @@ Technical Skills: Python, SQL, R, Tableau, Databases, Statistical Knowledge
 ### EDUCATION
 B.Sc., Data Science & Engineering | Ben Gurion University [_2020-2024_]
 
-### Work Experience
-
-### Data Analyst Intern @ MeNow
-
-### Data Analyst Research Assistant @ Ben Gurion University
 
 ## Projects
 
 ### Oref Alert Explorer
+
 
 An interactive dashboard platform that showcases data analytics on alerts during the 2023 Israel-Hamas war.
 This tool helps us understand and deal with safety alerts in Israel.

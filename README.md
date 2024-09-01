@@ -2,7 +2,7 @@
 Technical Skills: Python, SQL, R, Tableau, Databases, Statistical Knowledge
 
 ### EDUCATION
-- B.Sc., Data Science & Engineering | Ben Gurion University [2020-2024]
+B.Sc., Data Science & Engineering | Ben Gurion University [2020-2024]
 
 ### Work Experience
 

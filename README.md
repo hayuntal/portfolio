@@ -32,3 +32,9 @@ This integrated approach allows for a detailed analysis of game rounds and user 
 
 [View the A/B Testing Project Repository](https://github.com/hayuntal/CookieCats_AB_Testing)
 
+
+## Research Involvement
+
+I was one of the data analysts who analyzed and researched the data for this study, as acknowledged in the Acknowledgments section.
+
+Elkan, M., Kofman, N., Minha, S., Rappoport, N., Zaidenstein, R., & Koren, R. (2024). Does the “Obesity Paradox” Have an Expiration Date? A Retrospective Cohort Study. https://www.mdpi.com/2077-0383/12/21/6765

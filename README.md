@@ -1,7 +1,7 @@
 # Junior Data Analyst
 **Technical Skills: Python, SQL, R, Tableau, Databases, Statistical Knowledge**
 
-## EDUCATION
+## Education
 B.Sc., Data Science & Engineering | Ben Gurion University [_2020-2024_]
 
 

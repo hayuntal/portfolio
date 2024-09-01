@@ -9,6 +9,7 @@ B.Sc., Data Science & Engineering | Ben Gurion University [_2020-2024_]
 
 ### 1) Oref Alert Explorer
 
+![image](https://github.com/hayuntal/portfolio/blob/main/assets/img/red_alert_logo.png?raw=true)
 
 An interactive dashboard platform that showcases data analytics on alerts during the 2023 Israel-Hamas war.
 This tool helps us understand and deal with safety alerts in Israel.

@@ -19,7 +19,7 @@ This tool helps us understand and deal with safety alerts in Israel.
 
 With this dashbord, we can quickly find areas with increased alert levels, making it easier to respond to daily updates situations and strengthen community safety.
 
-Dashboard Link: https://public.tableau.com/views/OrefAlertsExplorer/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[View the Oref Alert Explorer Dashboard](https://public.tableau.com/views/OrefAlertsExplorer/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ### A/B Testing Project - Cookie Cats
@@ -31,4 +31,5 @@ This project focuses on A/B testing for the popular mobile game Cookie Cats to u
 
 This integrated approach allows for a detailed analysis of game rounds and user interactions, aiming to provide actionable insights that can help optimize the game's features and improve player experience.
 
-Repo Link: https://github.com/hayuntal/CookieCats_AB_Testing 
+[View the A/B Testing Project Repository](https://github.com/hayuntal/CookieCats_AB_Testing)
+

@@ -17,8 +17,7 @@ B.Sc., Data Science & Engineering | Ben Gurion University [2020-2024]
 An interactive dashboard platform that showcases data analytics on alerts during the 2023 Israel-Hamas war.
 This tool helps us understand and deal with safety alerts in Israel.
 
-With this dashbord, we  can quickly find areas with increased alert levels, making it easier to respond to daily updates situations and strengthen community safety.
-
+With this dashbord, we can quickly find areas with increased alert levels, making it easier to respond to daily updates situations and strengthen community safety.
 
 ![image](https://github.com/user-attachments/assets/9ade2273-601c-4ee9-adf1-99e1966602a6)
 

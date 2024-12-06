@@ -1,4 +1,10 @@
 title: Tal Hayun
 logo: /assets/img/Profile.jpg
-# show_downloads: true
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-include-cache
+markdown: kramdown
+
+# Include your custom stylesheet
+include:
+  - assets/css/custom.css

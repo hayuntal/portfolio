@@ -14,11 +14,11 @@ This tool helps us understand and deal with safety alerts in Israel.
 
 With this dashboard, we can quickly find areas with increased alert levels, making it easier to respond to daily updates situations and strengthen community safety.
 
-`Skills`: Data Visualization (Tableau), Python (Scrapping), Geospatial Analysis
+Skills: Data Visualization (Tableau), Python (Scrapping), Geospatial Analysis
 
-`Libraries`: Telethon (Telegram API), Pandas, Re (Regex), OS
+Libraries: Telethon (Telegram API), Pandas, Re (Regex), OS
 
-<img src="assets/img/red_alert_logo.png" width="300" style="border-radius:10%;" />
+<img src="assets/img/red_alert_logo.png" width="250" style="border-radius:10%;" height="215"/>
 
 [View the Oref Alert Explorer Dashboard](https://public.tableau.com/views/OrefAlertsExplorer/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -29,9 +29,9 @@ Car Sale Wall is an automated data retrieval and posting system that integrates 
 
 By running a scheduled workflow on GitHub, the system queries Yad2’s feed for fresh ads, processes and formats the car details (make, model, year, mileage, price, and seller contact), and then posts them directly to a dedicated Telegram channel. This approach ensures followers receive timely, structured, and easily accessible updates without manual intervention.
 
-`Skills`: Python, Web Scraping, GitHub Actions (Automation), API Integration
+Skills: Python, Web Scraping, GitHub Actions (Automation), API Integration
 
-`Libraries`: Telethon (Telegram API), Logging, Requests, OS
+Libraries: Telethon (Telegram API), Logging, Requests, OS
 
 <img src="assets/img/CarSaleWall.jpg" alt="CarSaleWall" width="300" style="border-radius:10%;" />
 
@@ -41,13 +41,13 @@ By running a scheduled workflow on GitHub, the system queries Yad2’s feed for 
 
 ### 3) A/B Testing Project - Cookie Cats
 
-This project focuses on A/B testing for the popular mobile game Cookie Cats to understand how different game designs impact player retention and engagement. The data is loaded from a **PostgreSQL** database, which serves as a robust platform for handling and storing extensive gameplay data. **Python** scripts are then utilized for further data manipulation, executing queries, and visualizing data distributions.
+This project focuses on A/B testing for the popular mobile game Cookie Cats to understand how different game designs impact player retention and engagement. The data is loaded from a **PostgreSQL** database, which serves as a robust platform for handling and storing extensive gameplay data. Python scripts are then utilized for further data manipulation, executing queries, and visualizing data distributions.
 
 This integrated approach allows for a detailed analysis of game rounds and user interactions, aiming to provide actionable insights that can help optimize the game's features and improve player experience.
 
-`Skills`: A/B Testing, SQL (PostgreSQL), Python (Data Analysis), Statistical Analysis, Data Visualization
+Skills: A/B Testing, SQL (PostgreSQL), Python (Data Analysis), Statistical Analysis, Data Visualization
 
-`Libraries`: Numpy, Pandas, Scipy, Matplotlib, PostgresClient, Utilis
+Libraries: Numpy, Pandas, Scipy, Matplotlib, PostgresClient, Utilis
 
 ![image](https://raw.githubusercontent.com/hayuntal/portfolio/main/assets/img/cookiecats.jfif)
 

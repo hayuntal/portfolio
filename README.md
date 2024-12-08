@@ -25,7 +25,7 @@ Libraries: Telethon (Telegram API), Pandas, Re (Regex), OS
 ---
 
 ### 2) Car Sale Wall
-Car Sale Wall is an automated data retrieval and posting system that integrates directly with Telegram. Leveraging Python for data scraping and GitHub Actions for CI/CD, this project continuously fetches and updates new car listings from Yad2 every 10 minutes.
+Car Sale Wall is an automated data retrieval and posting system that integrates directly with Telegram. Leveraging **Python** for data scraping and GitHub Actions for CI/CD, this project continuously fetches and updates new car listings from Yad2 every 10 minutes.
 
 By running a scheduled workflow on GitHub, the system queries Yad2’s feed for fresh ads, processes and formats the car details (make, model, year, mileage, price, and seller contact), and then posts them directly to a dedicated Telegram channel. This approach ensures followers receive timely, structured, and easily accessible updates without manual intervention.
 

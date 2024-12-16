@@ -1,5 +1,6 @@
 # Data Analyst
-**Technical Skills: Python, SQL, R, Tableau, Databases, Statistical Knowledge**
+**Technical Skills: 
+Python, SQL, R, Tableau, Databases, Statistical Knowledge**
 
 ## Education
 B.Sc., Data Science & Engineering | Ben Gurion University [_2020-2024_]
